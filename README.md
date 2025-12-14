@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Johan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalazer)](https://github.com/jalazer/github-readme-stats)
 
 <!--
 **JAlazer/jalazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
